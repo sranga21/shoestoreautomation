@@ -1,0 +1,14 @@
+# Eclipse folders/files
+**/.settings/**
+**/.project
+**/.metadata/**
+**/target/**
+**/.classpath
+
+/.metadata/
+/.recommenders/
+
+/test-output/
+/reports/
+**/~*
+

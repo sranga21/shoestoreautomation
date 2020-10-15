@@ -1,0 +1,7 @@
+INFO    2020-10-15 18:38:33,503 [main] com.sl.base.BaseTest  - Config properties file loaded
+INFO    2020-10-15 18:38:37,960 [PoolService-0] com.sl.base.BaseTest  - Driver Initialized !!!
+INFO    2020-10-15 18:38:38,430 [PoolService-0] com.sl.base.BaseTest  - Driver Initialized !!!
+INFO    2020-10-15 18:38:38,607 [PoolService-0] com.sl.base.BaseTest  - Driver Initialized !!!
+INFO    2020-10-15 18:38:46,345 [PoolService-0] com.sl.base.BaseTest  - Test Case Execution Completed !!!
+INFO    2020-10-15 18:38:48,653 [PoolService-0] com.sl.base.BaseTest  - Test Case Execution Completed !!!
+INFO    2020-10-15 18:39:03,098 [PoolService-0] com.sl.base.BaseTest  - Test Case Execution Completed !!!

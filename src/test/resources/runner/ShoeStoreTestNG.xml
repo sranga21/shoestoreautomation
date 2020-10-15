@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ShoeStoreTestSuite" parallel="methods" thread-count="3">
+<!-- <suite name="ShoeStoreTestSuite"> -->
+	<parameter name="browser" value="chrome" />
+	<parameter name="environment" value="DIT" />
+
+	<listeners>
+		<listener class-name="com.sl.ExtentListeners.ExtentListeners"></listener>
+	</listeners>
+	
+	<test name="ShoeStoreTestCases">
+		<classes>
+			<class name="com.sl.shoestore.SearchByBrandNameTestUi" />
+			<class name="com.sl.shoestore.RemindMeForNewShoesTestUi" />
+			<class name="com.sl.shoestore.RemindMeForThisShoesTestUi" />
+		</classes>
+	</test>
+	
+</suite> <!-- Suite -->
